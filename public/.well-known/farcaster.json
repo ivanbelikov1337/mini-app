@@ -13,7 +13,7 @@
   "miniapp": {
     "version": "1",
     "name": "Treble",
-    "homeUrl": "https://mini-app-kohl.vercel.app/",
+    "homeUrl": "https://mini-app-kohl.vercel.app",
     "iconUrl": "https://ex.co/i.png",
     "splashImageUrl": "https://ex.co/l.png",
     "splashBackgroundColor": "#000000",
