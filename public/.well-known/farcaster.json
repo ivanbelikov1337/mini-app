@@ -5,13 +5,15 @@
     "signature": "kM6P+YYCMVvN78zQehMkc9EQ2Um5O+kbtvwWfQuHTKZfAUo/KHSXjn+WH8cJBEdf06OYOtuVMJm1lN7T1TNwcBw="
   },
   "baseBuilder": {
-    "allowedAddresses": ["0x879Bd49d42c0E77C4033d284cA1E8c8C340f02Da"],
+    "allowedAddresses": [
+      "0x879Bd49d42c0E77C4033d284cA1E8c8C340f02Da"
+    ],
     "ownerAddress": "0x879Bd49d42c0E77C4033d284cA1E8c8C340f02Da"
   },
   "miniapp": {
     "version": "1",
     "name": "Treble",
-    "homeUrl": "https://ex.co",
+    "homeUrl": "https://mini-app-kohl.vercel.app/",
     "iconUrl": "https://ex.co/i.png",
     "splashImageUrl": "https://ex.co/l.png",
     "splashBackgroundColor": "#000000",
@@ -24,7 +26,9 @@
       "https://ex.co/s3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["Treble"],
+    "tags": [
+      "Treble"
+    ],
     "heroImageUrl": "https://ex.co/og.png",
     "tagline": "Play instantly",
     "ogTitle": "Example Mini App",
