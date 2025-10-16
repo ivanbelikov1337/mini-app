@@ -33,6 +33,7 @@
     "tagline": "Play instantly",
     "ogTitle": "Example Mini App",
     "ogDescription": "Challenge friends in real time.",
-    "ogImageUrl": "https://ex.co/og.png"
+    "ogImageUrl": "https://ex.co/og.png",
+    "noindex": false
   }
 }
