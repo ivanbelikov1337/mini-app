@@ -1,12 +1,12 @@
 {
-  "accountAssociation": {  
-    "header": "",
-    "payload": "",
-    "signature": ""
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzODYyMDQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyNkE2ZjVhM0U1ZEQxNTg2NmIxNEI4Nzk2NDcwNkRjMzBEMzcxODJCIn0",
+    "payload": "eyJkb21haW4iOiJtaW5pLWFwcC1rb2hsLnZlcmNlbC5hcHAifQ",
+    "signature": "kM6P+YYCMVvN78zQehMkc9EQ2Um5O+kbtvwWfQuHTKZfAUo/KHSXjn+WH8cJBEdf06OYOtuVMJm1lN7T1TNwcBw="
   },
   "baseBuilder": {
     "allowedAddresses": ["0x879Bd49d42c0E77C4033d284cA1E8c8C340f02Da"],
-     "ownerAddress": "0x879Bd49d42c0E77C4033d284cA1E8c8C340f02Da"
+    "ownerAddress": "0x879Bd49d42c0E77C4033d284cA1E8c8C340f02Da"
   },
   "miniapp": {
     "version": "1",
@@ -24,7 +24,7 @@
       "https://ex.co/s3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["Treble", "treble", "treble swap"],
+    "tags": ["Treble"],
     "heroImageUrl": "https://ex.co/og.png",
     "tagline": "Play instantly",
     "ogTitle": "Example Mini App",
